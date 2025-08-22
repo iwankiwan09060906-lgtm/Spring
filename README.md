@@ -4,9 +4,9 @@
 
 <img src="images/spring-recipe6.PNG" width="80" height="80">
 
-저자 : Marten Deinum, Daniel Rubio, and Josh Long  
-번역 : 이승룡, 서경석, 김태영, 서세진, 유기연  
-출판 : 2023
+저자 : 마틴 데이넘, 다니엘 루비오, 조시 롱
+번역 : 이승룡, 서경석, 김태영, 서세진, 유기연
+출판 : 2025.09.01
 
 ## Release
 

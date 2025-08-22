@@ -2,11 +2,11 @@
 
 이 레파지토리는 도서 [*Spring 6 Recipes*] 에 나온 예제에 대한 환경 구축 및 실행 가이드를 제공합니다.
 
-<img src="images/spring-recipe6.png" width="80" height="80">
+<img src="images/spring-recipe6.png" width="300" height="300">
 
 저자 : 마틴 데이넘, 다니엘 루비오, 조시 롱  
 번역 : 이승룡, 서경석, 김태영, 서세진, 유기연  
-출판 : 2025.09.01  
+출판 : 한빛미디어, 2025.09.01  
 
 ## Release
 
